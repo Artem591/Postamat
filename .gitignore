@@ -1,7 +1,16 @@
-.idea/
-*.iml
-*.ipr
-*.iws
+# Gradle
 .gradle/
 build/
+!build.gradle
+
+# IntelliJ IDEA
+.idea/
+*.iml
 out/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
